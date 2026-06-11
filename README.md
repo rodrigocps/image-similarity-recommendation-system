@@ -31,3 +31,6 @@ O sistema é construído sobre os princípios da Transferência de Aprendizado (
 | **Similaridade/Busca** | Scikit-learn (`NearestNeighbors`) | Implementação da técnica de **K-Vizinhos Mais Próximos (KNN)** para busca eficiente de similaridade. |
 | **Manipulação de Dados** | Pandas, NumPy | Estruturação e gestão do catálogo de imagens/metadados e manipulação dos vetores de *embeddings*. |
 | **Visualização** | Matplotlib | Exibição da imagem de consulta e das imagens recomendadas para validação do modelo. |
+
+## Uso de IA
+Este projeto contou com auxílio de ferramentas de Inteligência Artificial para geração de trechos de código e ideias de implementação. Todo o material foi revisado, adaptado e testado manualmente antes da publicação.
